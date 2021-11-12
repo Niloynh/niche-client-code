@@ -1,0 +1,18 @@
+.header-container a:hover {
+    color: #29d0ee !important;
+    transition: .3s;
+}
+
+.signOut-btn {
+    background-color: rgba(161, 159, 159, 0);
+    border: none;
+    font-weight: 700;
+    color: #222;
+}
+
+.img-size {
+    margin-top: 6px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}

@@ -1,0 +1,29 @@
+/* messange box css */
+.contact-text {
+    width: 80%;
+}
+
+.contact-text p {
+    line-height: 1.8;
+    font-size: 19px;
+    color: rgb(122, 122, 122);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.contact-text p strong {
+    color: #0c94af;
+}
+
+.contact-input input {
+    padding: 25px 30px;
+    background-color: rgba(221, 221, 221, 0.486);
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+.contact-input textarea {
+    background-color: rgba(221, 221, 221, 0.486);
+    padding: 30px;
+    font-size: 17px;
+}

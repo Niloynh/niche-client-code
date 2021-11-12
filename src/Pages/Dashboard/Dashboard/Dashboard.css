@@ -1,0 +1,33 @@
+.ds-text {
+    padding: 20px;
+    padding-left: 8%;
+    color: #17a2b8;
+}
+
+.dashboard {
+    margin: 3% 0;
+    background-color: #f8f9fa;
+    padding: 10px;
+
+}
+
+.dashboard a {
+    display: flex;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 15px;
+    text-transform: uppercase;
+    color: #17a2b8;
+    transition: .2s;
+}
+
+.dashboard a:hover {
+    color: rgba(7, 31, 54, 0.904);
+}
+
+.dashboard-pages {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
