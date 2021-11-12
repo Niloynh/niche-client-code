@@ -27,7 +27,7 @@ const AddAProducts = () => {
         <input type="text" {...register("name")} placeholder="Car Name"/>
         <input {...register("price")} placeholder="Price"/>
         <input {...register("img")} placeholder="Image URL"/>
-        <input className="input-btn" type="submit" value="Place Order"/>
+        <input className="input-btn" type="submit" value="Add Product"/>
         </form>
     </div>
     );
